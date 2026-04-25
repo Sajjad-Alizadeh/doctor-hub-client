@@ -1,0 +1,57 @@
+.header_navbar {
+  top:0px;
+  background-color: white;
+  position: relative;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  padding: 1px;
+  justify-content: space-around;
+  box-shadow: 0px 1px 5px #aaaaaa;
+}
+.header_navbar_logo_container {
+  right: 0vh;
+  top: 1vh;
+  width: 15vh;
+  display: flex;
+  justify-content: center;
+}
+
+
+.header_navbar_logo {
+  height: 35px;
+  position: relative;
+}
+
+.header_navbar_login_container {
+  left: 0vh;
+  justify-content: center;
+  height: 100%;
+  width: 15vh;
+  position: absolute;
+
+}
+.header_navbar_login_btn {
+  left: 6vh;
+  height: 20px;
+  width: 13vh;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(64, 211, 159);
+  border: 2px double rgb(64, 211, 159);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  font-size: 9px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+.header_navbar_login_btn:hover {
+  border: 2px double white;
+}

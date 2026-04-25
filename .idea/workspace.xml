@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a4ba099-49d4-4ac2-9120-32e6178bb8d0" name="Changes" comment="fix issues">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hook/useAuthRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hook/useAuthRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/useRefreshAccessToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/useRefreshAccessToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/navbar/component/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/navbar/component/Navbar.js" afterDir="false" />
+    <list default="true" id="0a4ba099-49d4-4ac2-9120-32e6178bb8d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo/doctor_hub.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/logo/doctor_hub.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev_local" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HP9jnDgesXqC60Hjt6wdTh7MpI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/afshinpy/WebstormProjects/doctor-hub-client/src/hooks&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/method" />
+      <recent name="$PROJECT_DIR$/src/pages/authentication/confirmLogin" />
+      <recent name="$PROJECT_DIR$/src/pages/authentication" />
+      <recent name="$PROJECT_DIR$/src/pages/authentication/login" />
+      <recent name="$PROJECT_DIR$/src/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="package.json" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="package.json" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4ba099-49d4-4ac2-9120-32e6178bb8d0" name="Changes" comment="" />
+      <created>1668175990930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668175990930</updated>
+      <workItem from="1668175998436" duration="208000" />
+      <workItem from="1668181294940" duration="15000" />
+      <workItem from="1668181323600" duration="56000" />
+      <workItem from="1668181394230" duration="807000" />
+      <workItem from="1668182211683" duration="3279000" />
+      <workItem from="1668187599364" duration="3930000" />
+      <workItem from="1668249554189" duration="4089000" />
+      <workItem from="1668318771198" duration="226000" />
+      <workItem from="1668802772159" duration="1817000" />
+      <workItem from="1668487787127" duration="8042000" />
+      <workItem from="1668680858154" duration="6276000" />
+      <workItem from="1668702315115" duration="2469000" />
+      <workItem from="1668708208244" duration="2873000" />
+      <workItem from="1668792337198" duration="4082000" />
+      <workItem from="1668575294765" duration="3560000" />
+      <workItem from="1668792337198" duration="4360000" />
+      <workItem from="1668930605743" duration="5685000" />
+    </task>
+    <task id="LOCAL-00001" summary="clean packing">
+      <created>1668181887222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668181887222</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add tailwindcss to project">
+      <created>1668184860745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668184860745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change readme message">
+      <created>1668697092634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668697092634</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix login form style">
+      <created>1668238566323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668238566323</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix confirm login style">
+      <created>1668253484987</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668253484987</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix confirm login style">
+      <created>1668253586160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668253586160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix login issues">
+      <created>1668515260821</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668515260821</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix issues">
+      <created>1668573737467</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668573737467</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix error message issue">
+      <created>1668839636326</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668839636326</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix issues">
+      <created>1668861285339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668861285339</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clean packing" />
+    <MESSAGE value="add tailwindcss to project" />
+    <MESSAGE value="change readme message" />
+    <MESSAGE value="fix login form style" />
+    <MESSAGE value="fix confirm login style" />
+    <MESSAGE value="fix login issues" />
+    <MESSAGE value="fix error message issue" />
+    <MESSAGE value="fix issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix issues" />
+  </component>
+</project>
